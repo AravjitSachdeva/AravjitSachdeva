@@ -5,7 +5,7 @@ I graduated with a computer science degree in 2021. Officially started working a
 I adept in Infrastructure as Code, best security practices, design patterns, CI/CD and Deployment processes. I have worked quite extensively with AWS. 
 Also highly geared towards product and strategy oriented thinking. 
   
-My go to language for building something is Python. Currently, I am more focused on consolidating my skill in Typescript, Node.js, React, and Next.js. I am more backend leaning and have a functional understanding of front-end development. Trying to improve more on that. 
+My go to language for building something is Python. Currently, I am more focused on increasing my fluency in Typescript, Node.js, React, and Next.js. I am more backend leaning and have a functional understanding of front-end development. Trying to improve more on that. 
 
 I have also worked as a Data Scientist/Data Engineer in the past and find Machine Learning and Statistics quite fascinating. 
 </p>
