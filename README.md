@@ -2,7 +2,7 @@
 
 <p>
 I graduated with a computer science degree in 2021. Officially started working as a Software Engineer towards the end of 2022. (Worked in Big4 Tech Consulting before that) I am highly motivated and love to learn about the latest happenings in tech and solve interesting problems. My goal is to become a strong generalist developer with working fundamental knowledge in all aspects of engineering needed for building high quality production software. 
-I adept in Infrastructure as Code, best security practices, design patterns, CI/CD and Deployment processes. I have worked quite extensively with AWS. 
+I am adept in Infrastructure as Code, best security practices, design patterns, CI/CD and Deployment processes. I have worked quite extensively with AWS. 
 Also highly geared towards product and strategy oriented thinking. 
   
 My go to language for building something is Python. Currently, I am more focused on increasing my fluency in Typescript, Node.js, React, and Next.js. I am more backend leaning and have a functional understanding of front-end development. Trying to improve more on that. 
@@ -12,8 +12,8 @@ I have also worked as a Data Scientist/Data Engineer in the past and find Machin
 
  <div>
   <a href="https://github.com/AravjitSachdeva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AravjitSachdeva&theme=dark&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AravjitSachdeva&layout=compact&langs_count=7&theme=synthwave"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AravjitSachdeva&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AravjitSachdeva&layout=compact&langs_count=7&theme=dark&show_icons"/>
 </div>
 
 <div style="display: inline_block"><br>
